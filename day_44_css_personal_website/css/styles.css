@@ -1,0 +1,121 @@
+div {
+position:relative;
+}
+
+body {
+    text-align: center;
+    font-family: "Open sans",sans-serif;
+}
+
+h1 {
+    color: #112D4E;
+    margin-top: 50px;
+    font-family: "Sacramento";
+    font-size: 562.5%;
+    margin: 50px auto 0px auto;
+}
+
+h2{
+    color: #112D4E;
+    font-family: "Montserrat";
+    font-size: 2.5rem;
+    font-weight: normal;
+    margin-bottom: 40px;
+}
+
+h3{
+    font-family: "Montserrat";
+    color: #11999E;
+}
+
+hr {
+    color: #EAF6F6;
+    border-style: none;
+    border-top-style: dotted;
+    width: 15%;
+    border-width: 20px;
+    margin-top: 20px;
+}
+
+p {
+margin: 0;}
+
+a {
+    color: #11999E;
+}
+
+#top-cloud {
+    position:relative;
+    left:200px;
+}
+
+#bottom-cloud {
+    position:absolute;
+    left:20%;
+    top:50%
+}
+#profile-picture{
+    height:200px;
+    width:200px;
+}
+
+#mountain {
+    position:relative;
+    margin-top: 130px;
+}
+
+
+.skill-row{
+    width: 40%;
+    margin: 40px auto 40px auto;
+    line-height: 1.5;
+    text-align: left;
+}
+
+
+.code-img{
+    width: 30%;
+    float: left;
+    margin-right: 20px;
+ }
+
+.stethoscope{
+    width: 30%;
+    margin-left: 20px;
+    float:right;
+
+}
+.top-container{
+    position: relative;
+    padding-top: 50px;
+    background-color: #A8D8EA;
+}
+.footer-name{
+    color: #EAF6F6;
+    margin-top: 20px;
+}
+.pro{text-decoration: underline;}
+
+.contact-me{
+    align: center;
+    text-align: center;
+}
+
+.bottom-container{
+    margin-top: 40px;
+    padding: 30px;
+    background-color: #0F4C75;
+}
+
+.btn {
+    color: white;
+    background-color: #0F4C75;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+.footer-link{
+    margin: 20px;
+
+}
